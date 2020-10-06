@@ -8,7 +8,8 @@
 
 
 ## 1.3 Trajectories 
-* [1.3.1 1.3.2](https://github.com/kaspesi/cse360_workshop_1/blob/main/Trajectories_3.ipynb) Trajectories_3.ipynb
+* [1.3.1](https://github.com/kaspesi/cse360_workshop_1/blob/main/Trajectories_3.ipynb) Trajectories_3.ipynb
+* [1.3.2](https://github.com/kaspesi/cse360_workshop_1/blob/main/Trajectories_3.ipynb) Trajectories_3.ipynb
 * [1.3.3](https://github.com/kaspesi/cse360_workshop_1/blob/main/workshop1_omnibottraj.ipynb) workshop1_omnibottraj.ipynb
 * [1.3.4](https://github.com/kaspesi/cse360_workshop_1/blob/main/workshop1_quadcoptertraj.ipynb) workshop1_quadcoptertraj.ipynb
 
